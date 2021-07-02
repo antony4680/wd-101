@@ -1,4 +1,4 @@
-#WEB DEVELOPMENT 101
+<h1>WEB DEVELOPMENT 101</h1>
 WD 101 is an Industry-led course built by Freshworks and Pupilfirst.<br>
 This course is meant for beginners in programming & web development and those who are looking to build
 a robust foundation in computational thinking.
